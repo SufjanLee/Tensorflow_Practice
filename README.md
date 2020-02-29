@@ -1,7 +1,7 @@
 # Tensorflow 2.0 _Practice
 
 # Content
-1. Classical
+1. Classic
   - Regression Problem
     - AUTO_MPG Dataset
   - CNN
@@ -15,10 +15,12 @@
  ---
  
 # Detail
-1.1 Regression Problem
- 
-2.1 Movie-Recommend system
-Python send a MemoryError when I read the whole dataset. The type of dataset are int64 and float64. Solutions are as follows:
+## Classic
+### 1.1 Regression Problem
+
+## Projects
+### 2.1 Movie-Recommend system
+Python send a MemoryError when I read the whole dataset by pandas. The type of dataset are int64 and float64. Solutions are as follows:
 
 |Id|Solution|
 |:-:|:-|
